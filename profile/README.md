@@ -10,10 +10,12 @@ A small independent team building thoughtful products, internal systems, and exp
 
 ### What we're working on
 
-- **astraark.com** — our public home (currently in quiet development)
-- **Internal tooling** — platforms that help small teams capture, refine, and ship ideas together
-- **Community & security systems** — configurable bots and moderation tools
-- Prototypes, games, and infrastructure experiments
+- **astraark.com** — our public home and future products (in quiet development)
+- **HandyBoomer** — marketplace connecting Australian households with verified baby boomer tradies for small jobs done right
+- **ClockTogether** — multi-timezone meeting and time tools for global teams
+- **Internal tooling** — The App Shed and platforms that help small teams capture, refine, and ship ideas together
+- **Community & security systems** — Astra (advanced multi-tenant Telegram bot platform) and moderation tools like BouncerBot
+- Prototypes, games (e.g. Seedstorm), and infrastructure experiments (e.g. Sidekick companion)
 
 Most active work currently lives in private repositories while we build foundations.
 
