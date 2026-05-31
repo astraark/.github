@@ -12,4 +12,4 @@ This repository holds organization-level configuration for the **astraark** GitH
 - This repository must remain **public** so the organization profile README can render for everyone.
 - Only organization owners and maintainers should modify files here.
 
-Last updated: May 2026
+Last updated: June 2026 (profile updated for new projects: HandyBoomer, ClockTogether, Astra rebrand from KarenTemplate, Sidekick, etc.)
